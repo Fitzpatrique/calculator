@@ -1,5 +1,16 @@
 //alert("Hello World");
 
+if("serviceWorker" in navigator){
+    navigator.serviceWorker.register("sw.js").then(
+        registration => {
+            console.log("SW Registered!");
+        }
+    ).catch(error => {
+        console.log("SW Failed");
+    })
+}
+
+
 function clearDisplay() {
     document.getElementById('screen').innerHTML = '0';
     document.getElementById('display').innerHTML = '0';

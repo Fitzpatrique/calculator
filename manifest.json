@@ -1,0 +1,16 @@
+{
+    "name":"Eval",
+    "short_name":"Eval",
+    "start_url":".",
+    "background_color":"#FFF",
+    "theme_color":"#007DFF",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"images/eval.png",
+            "sizes":"700x700",
+            "type":"image/png"
+        }
+    ]
+
+}
