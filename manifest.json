@@ -1,7 +1,7 @@
 {
     "name":"Eval",
     "short_name":"Eval",
-    "start_url":".",
+    "start_url":"./calculator",
     "background_color":"#FFF",
     "theme_color":"#007DFF",
     "display":"standalone",
