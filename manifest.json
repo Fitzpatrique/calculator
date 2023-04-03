@@ -7,7 +7,7 @@
     "display":"standalone",
     "icons":[
         {
-            "src":"images/eval.png",
+            "src":"images/Eval.png",
             "sizes":"724x724",
             "type":"image/png"
         }
